@@ -92,7 +92,7 @@ const parktherme: CampsiteConfig = {
       {
         title: "380 m² Zeltplatz",
         text: "Eine eigene Zeltwiese am Rand des Platzes, eingebettet zwischen Gräsern und Bäumen — mit Pavillon zum Verweilen.",
-        image: { src: `${IMG}/accommodation-5f48bf998d.webp`, alt: "Zeltplatz-Schild am Campingplatz der Parktherme" },
+        image: { src: `${IMG}/gallery-0f1059bb46.webp`, alt: "Frau am Zelt mit Fahrrad am Campingplatz der Parktherme" },
       },
       {
         title: "Barrierefreie Sanitäranlagen",
