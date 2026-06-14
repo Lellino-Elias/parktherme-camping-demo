@@ -80,6 +80,11 @@ const parktherme: CampsiteConfig = {
       "88 befestigte Stellplätze mit Strom, 65 davon mit Wasser- und Abwasseranschluss, ein 380 m² großer Zeltplatz und barrierefreie Sanitäranlagen — hier machst du es dir einfach gemütlich.",
     features: [
       {
+        title: "Direkt an der Parktherme",
+        text: "Vom Stellplatz sind es nur wenige Schritte ins Thermalwasser — als Aufenthaltsgast zu vergünstigten Eintrittspreisen.",
+        image: { src: `${IMG}/accommodation-9497009f7a.webp`, alt: "Wohnmobil direkt an den Becken der Parktherme" },
+      },
+      {
         title: "88 Stellplätze mit Strom",
         text: "Befestigte, ebene Plätze für Wohnwagen, Wohnmobil und Campingbus — 65 davon zusätzlich mit Wasser- und Abwasseranschluss.",
         image: { src: `${IMG}/accommodation-d30ac4e6b7.webp`, alt: "Wohnwagen-Stellplatz am Campingplatz der Parktherme" },
@@ -93,11 +98,6 @@ const parktherme: CampsiteConfig = {
         title: "Barrierefreie Sanitäranlagen",
         text: "Moderne, barrierefrei erreichbare Sanitäranlagen mit Duschen, Waschkabinen sowie Waschmaschine und Wäschetrockner.",
         image: { src: `${IMG}/gallery-7d38cdcf76.webp`, alt: "Sanitärbereich am Campingplatz der Parktherme" },
-      },
-      {
-        title: "Direkt an der Parktherme",
-        text: "Vom Stellplatz sind es nur wenige Schritte ins Thermalwasser — als Aufenthaltsgast zu vergünstigten Eintrittspreisen.",
-        image: { src: `${IMG}/accommodation-9497009f7a.webp`, alt: "Wohnmobil direkt an den Becken der Parktherme" },
       },
       {
         title: "Haustiere willkommen",
