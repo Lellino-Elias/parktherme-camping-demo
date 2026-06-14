@@ -37,7 +37,7 @@ const parktherme: CampsiteConfig = {
     },
     {
       title: "Schlaffässer Riesling & Traminer",
-      text: "Übernachten der besonderen Art: zwei nach steirischen Weinsorten benannte Schlaffässer mit Doppelbett, Klimaanlage und gemütlicher Sitzecke.",
+      text: "Zwei Schlaffässer — benannt nach steirischen Weinsorten — mit Doppelbett, Klimaanlage und gemütlicher Sitzecke.",
       image: { src: `${IMG}/gallery-35a8e036df.webp`, alt: "Schlaffässer am Campingplatz der Parktherme Bad Radkersburg" },
     },
   ],
@@ -120,7 +120,7 @@ const parktherme: CampsiteConfig = {
       {
         name: "Schlaffässer Riesling & Traminer",
         kind: "Schlaffass",
-        text: "Gemütliches Doppelbett (200 × 200 cm), Sitzecke mit zwei umbaubaren Schlafmöglichkeiten, Infrarotheizung und Klimaanlage — dazu eine Sitzecke mit Sonnenschirm zwischen den Fässern.",
+        text: "Doppelbett (200 × 200 cm), Sitzecke mit zwei Schlafplätzen sowie Infrarotheizung, Klimaanlage und Sonnenschirm-Sitzecke draußen.",
         image: { src: `${IMG}/gallery-7b6aa93197.webp`, alt: "Schlaffass „Traminer“ am Campingplatz der Parktherme" },
         priceFrom: 33,
         features: ["Doppelbett 200 × 200 cm", "Infrarotheizung & Klimaanlage", "ab 2 Nächten buchbar"],
@@ -163,7 +163,7 @@ const parktherme: CampsiteConfig = {
       },
       {
         title: "Genussradeln",
-        text: "Die RADregion Bad Radkersburg lädt zu Touren durch Weinhügel und Auen — bestens gewartete Leihräder gibt es direkt am Campingplatz.",
+        text: "Die RADregion Bad Radkersburg bietet Touren durch Weinhügel und Auen — Leihräder direkt am Campingplatz.",
         image: { src: `${IMG}/gallery-1d95e0e14d.webp`, alt: "Radfahrer in der Altstadt von Bad Radkersburg" },
       },
       {
