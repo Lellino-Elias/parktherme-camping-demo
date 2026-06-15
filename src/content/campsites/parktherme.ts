@@ -28,7 +28,7 @@ const parktherme: CampsiteConfig = {
     {
       title: "Therme direkt nebenan",
       text: "Die Becken der Parktherme liegen nur wenige Schritte vom Stellplatz entfernt — als Aufenthaltsgast badest du zum Vorteilspreis.",
-      image: { src: `${IMG}/hero-683ac71612.webp`, alt: "Luftbild der Parktherme Bad Radkersburg mit ihren Becken" },
+      image: { src: `${IMG}/gallery-eac909ce6b.webp`, alt: "Frau im Außenbecken der Parktherme Bad Radkersburg" },
     },
     {
       title: "Mitten in der Natur",
@@ -64,8 +64,8 @@ const parktherme: CampsiteConfig = {
 
   hero: {
     aerial: {
-      src: `${IMG}/hero-832c62fea2.webp`,
-      alt: "Luftbild: Campingplatz der Parktherme zwischen Therme, Mur und Altstadt Bad Radkersburg",
+      src: `${IMG}/hero-683ac71612.webp`,
+      alt: "Luftbild: Parktherme Bad Radkersburg mit Becken, Campingplatz und Altstadt",
     },
   },
 
@@ -87,7 +87,7 @@ const parktherme: CampsiteConfig = {
       {
         title: "88 Stellplätze mit Strom",
         text: "Befestigte, ebene Plätze für Wohnwagen, Wohnmobil und Campingbus — 65 davon zusätzlich mit Wasser- und Abwasseranschluss.",
-        image: { src: `${IMG}/accommodation-d30ac4e6b7.webp`, alt: "Wohnwagen-Stellplatz am Campingplatz der Parktherme" },
+        image: { src: `${IMG}/accommodation-096c7d3a06.webp`, alt: "Pärchen vor dem Wohnmobil beim Campingplatz der Parktherme" },
       },
       {
         title: "380 m² Zeltplatz",
@@ -159,7 +159,7 @@ const parktherme: CampsiteConfig = {
       {
         title: "Therme & Saunadorf",
         text: "Quell- und Vitalbecken, ein 50-m-Sportbecken und ein weitläufiges Saunadorf mit acht Saunen — alles wenige Schritte entfernt.",
-        image: { src: `${IMG}/amenity-d33e9a0dba.webp`, alt: "Sauna im Saunadorf der Parktherme" },
+        image: { src: `${IMG}/activity-93bb580df7.webp`, alt: "50-Meter-Sportbecken der Parktherme Bad Radkersburg im Sonnenlicht" },
       },
       {
         title: "Genussradeln",
@@ -216,8 +216,8 @@ const parktherme: CampsiteConfig = {
     moreCount: 24,
     images: [
       { src: `${IMG}/gallery-5b1a58334e.webp`, alt: "Pärchen im Bademantel auf der Herzbank an der Mur" },
-      { src: `${IMG}/gallery-2799168242.webp`, alt: "Schlaffass von innen am Campingplatz der Parktherme" },
-      { src: `${IMG}/gallery-9749d71af9.webp`, alt: "Steirische Jause im Buschenschank" },
+      { src: `${IMG}/gallery-f78d9d3ee1.webp`, alt: "Frau unter dem Wasserfall im Außenbecken der Parktherme Bad Radkersburg" },
+      { src: `${IMG}/gallery-5d0634cc6e.webp`, alt: "Pärchen entspannt im Außenbecken der Parktherme Bad Radkersburg" },
       { src: `${IMG}/hero-e1810994aa.webp`, alt: "Luftaufnahme des Campingplatzes der Parktherme" },
     ],
   },
